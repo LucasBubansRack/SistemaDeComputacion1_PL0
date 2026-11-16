@@ -1,0 +1,11 @@
+VAR contador;
+
+BEGIN
+    contador := 0;
+    WHILE contador < 5 DO
+
+    BEGIN
+        WRITELN(contador);
+        contador := contador + 1;
+    END;
+END.

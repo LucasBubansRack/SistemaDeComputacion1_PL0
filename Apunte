@@ -1,0 +1,6 @@
+cada vez que modifico algo en el ".pl0" tengo que volver a regenerar su ".exe"
+lo hago con ".\copilador.exe My.pl0"
+
+Ejemplo si en el 0_prueba.pl0 cambio el valor de  x a "x := 15"
+en la consola tengo que hacer: ".\compilador.exe 0_prueba.pl0"  Para actualizar el "0_prueba.exe"
+Y luego para ver el resultado hago ".\0_prueba.exe 0_prueba.pl0"

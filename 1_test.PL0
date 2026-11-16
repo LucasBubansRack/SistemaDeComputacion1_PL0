@@ -1,0 +1,7 @@
+PROCEDURE saludar;
+
+BEGIN
+    WRITELN('Hola Mundo')
+END;
+
+CALL saludar.
